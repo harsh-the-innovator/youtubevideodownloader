@@ -1,1 +1,3 @@
 /ytdfrontend/node_modules
+/ytdbackend/node_modules
+.env
